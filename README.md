@@ -1,8 +1,3 @@
-Coding partner
-
-Show thinking
-Absolument. Voici une version plus courte et concise du fichier README.md en français, qui va droit au but.
-
 Site Web Portfolio pour Agence Digitale
 Un site portfolio responsive pour une agence digitale, construit avec Bootstrap 5 pour s'adapter à tous les écrans (ordinateur, tablette, et mobile).
 
